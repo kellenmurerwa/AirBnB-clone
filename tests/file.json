@@ -1,0 +1,90 @@
+{
+  "BaseModel.49e4b3c7-d385-4a2f-9205-4494f1f44477": {
+    "id": "49e4b3c7-d385-4a2f-9205-4494f1f44477",
+    "created_at": "2024-09-12T09:28:43.520250",
+    "updated_at": "2024-09-12T09:28:43.520250",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.156b5b9c-77eb-4f2d-b7ba-dfeca2ebcdfc": {
+    "id": "156b5b9c-77eb-4f2d-b7ba-dfeca2ebcdfc",
+    "created_at": "2024-09-12T09:28:43.520250",
+    "updated_at": "2024-09-12T09:28:43.520250",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.6a4edab3-6c38-49ee-bc06-780ad52cbab1": {
+    "id": "6a4edab3-6c38-49ee-bc06-780ad52cbab1",
+    "created_at": "2024-09-12T09:28:43.521262",
+    "updated_at": "2024-09-12T09:28:43.521262",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.99b8283f-69e2-4899-83ed-834e54416399": {
+    "id": "99b8283f-69e2-4899-83ed-834e54416399",
+    "created_at": "2024-09-12T09:28:43.526589",
+    "updated_at": "2024-09-12T09:28:43.526589",
+    "name": "Avengers",
+    "my_number": 44,
+    "__class__": "BaseModel"
+  },
+  "BaseModel.29087333-9971-4207-9c1f-a195f6001a00": {
+    "id": "29087333-9971-4207-9c1f-a195f6001a00",
+    "created_at": "2024-09-12T09:28:43.527587",
+    "updated_at": "2024-09-12T09:28:43.527587",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.bfa418d2-a95e-44ef-81a1-3be2a0b82fb6": {
+    "id": "bfa418d2-a95e-44ef-81a1-3be2a0b82fb6",
+    "created_at": "2024-09-12T09:29:59.380530",
+    "updated_at": "2024-09-12T09:29:59.380530",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.f9639a00-b48b-49d5-a712-4e3649390b17": {
+    "id": "f9639a00-b48b-49d5-a712-4e3649390b17",
+    "created_at": "2024-09-12T09:29:59.380530",
+    "updated_at": "2024-09-12T09:29:59.380530",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d56e0ee1-4022-43a1-9286-b11920b413b6": {
+    "id": "d56e0ee1-4022-43a1-9286-b11920b413b6",
+    "created_at": "2024-09-12T09:29:59.380530",
+    "updated_at": "2024-09-12T09:29:59.380530",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.f324d367-55bd-475a-b104-dca63c619658": {
+    "id": "f324d367-55bd-475a-b104-dca63c619658",
+    "created_at": "2024-09-12T09:29:59.380530",
+    "updated_at": "2024-09-12T09:29:59.380530",
+    "name": "Avengers",
+    "my_number": 44,
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8d27f9f7-897a-440c-9996-4ba00f1f4e65": {
+    "id": "8d27f9f7-897a-440c-9996-4ba00f1f4e65",
+    "created_at": "2024-09-12T09:29:59.381527",
+    "updated_at": "2024-09-12T09:29:59.381527",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1b39e36b-a1bb-4226-b1bc-e458da00d6ff": {
+    "id": "1b39e36b-a1bb-4226-b1bc-e458da00d6ff",
+    "created_at": "2024-09-12T09:33:21.737634",
+    "updated_at": "2024-09-12T09:33:21.737634",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.00527350-03d9-4004-b84d-4e17ec4e42e7": {
+    "id": "00527350-03d9-4004-b84d-4e17ec4e42e7",
+    "created_at": "2024-09-12T09:33:21.738631",
+    "updated_at": "2024-09-12T09:33:21.738631",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.5ae67086-f2a6-412e-ba6b-5a64e87e02d4": {
+    "id": "5ae67086-f2a6-412e-ba6b-5a64e87e02d4",
+    "created_at": "2024-09-12T09:33:21.740856",
+    "updated_at": "2024-09-12T09:33:22.741489",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.04648d45-38cf-4e11-915a-922325e8227d": {
+    "id": "04648d45-38cf-4e11-915a-922325e8227d",
+    "created_at": "2024-09-12T09:33:22.744486",
+    "updated_at": "2024-09-12T09:33:22.744486",
+    "__class__": "BaseModel"
+  }
+}
