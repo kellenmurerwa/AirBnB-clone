@@ -52,6 +52,5 @@ class TestBaseModel(unittest.TestCase):
         dict_repr = base.to_dict()
         self.assertEqual(dict_repr['__class__'], base.__class__.__name__)
 
-
 if __name__ == "__main__":
     unittest.main()
