@@ -1,11 +1,5 @@
 # !/usr/bin/python3
 # from models.base_model import BaseModel
-#
-# my_model = BaseModel()
-# my_model.name = "My First Model"
-# my_model.my_number = 89
-# print(my_model)
-
 """Unittest module for the BaseModel Class."""
 
 import unittest
@@ -14,7 +8,6 @@ import os
 import time
 from io import StringIO
 from unittest.mock import patch
-
 
 class TestBaseModel(unittest.TestCase):
     """Test cases for the BaseModel."""
