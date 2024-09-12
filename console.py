@@ -8,7 +8,7 @@ from models.user import User
 from models.city import City
 from models.place import Place
 # from models.amenity import Amenity
-# from models.review import Review
+from models.review import Review
 
 
 class HBNBCommand(cmd.Cmd):
@@ -22,7 +22,7 @@ class HBNBCommand(cmd.Cmd):
         "City",
         # "Amenity",
         "Place",
-        # "Review"
+        "Review"
     }
 
     def emptyline(self):
