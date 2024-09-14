@@ -33,7 +33,7 @@ CRUD system--commands
 
 5.Delete ClassName UUID(and check if the base Model exist anymore)
 
-   <img width="414" alt="image" src="https://github.com/user-attachments/assets/9058f9a4-41ad-4c5a-871b-95a3f4e5739a">
+      <img width="414" alt="image" src="https://github.com/user-attachments/assets/9058f9a4-41ad-4c5a-871b-95a3f4e5739a">
 
 6. all(show all models' objects created)
    <img width="778" alt="image" src="https://github.com/user-attachments/assets/b1ac0eee-a68c-4ec0-9714-319cde759c62">
