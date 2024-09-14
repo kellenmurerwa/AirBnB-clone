@@ -23,7 +23,8 @@ CRUD system--commands
 2. show className UUID (object details based on uuid)
 <img width="782" alt="image" src="https://github.com/user-attachments/assets/7fbc798a-5c57-45aa-a931-cd5b3de3a4ec">
 
-3. update className UUID 
+3. update className UUID
+   
    <img width="400" alt="image" src="https://github.com/user-attachments/assets/b0ca3b13-5d41-437f-a575-21d389bea5ea">
    <img width="784" alt="image" src="https://github.com/user-attachments/assets/3047627d-ec3b-4371-bc1d-1344d5381219">
 
