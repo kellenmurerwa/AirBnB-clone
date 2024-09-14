@@ -19,8 +19,10 @@ alu-AirBnB clone is a complete web application designed to integrate database st
 CRUD system--commands
 1.  create <className>
 <img width="287" alt="image" src="https://github.com/user-attachments/assets/572da904-59cd-4777-8260-724006d1637f">
+
 2. show <className> UUID (object details based on uuid)
 <img width="782" alt="image" src="https://github.com/user-attachments/assets/7fbc798a-5c57-45aa-a931-cd5b3de3a4ec">
+
 3. 
 4. all(show all models' objects created)
    <img width="778" alt="image" src="https://github.com/user-attachments/assets/b1ac0eee-a68c-4ec0-9714-319cde759c62">
